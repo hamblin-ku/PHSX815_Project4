@@ -1,6 +1,6 @@
-# File:     dice_analysis.py
+# File:     spin_analysis.py
 # Author:   Kurt Hamblin
-# Description:  Analyze outputs from the dice roll simulation 
+# Description:  Analyze outputs from the spin simulation 
 
 import numpy as np
 import matplotlib as mpl

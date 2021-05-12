@@ -1,7 +1,7 @@
-# File:     dice_experiment.py
+# File:     spin_experiment.py
 # Author:   Kurt Hamblin
 # Description:  Utitlize the Random Class to:
-# Simulate dice rolls where the dice weights are sampled from a Rayleigh Distribution
+# Simulate spin measurements of leptons
 
 from Random import Random
 import numpy as np
